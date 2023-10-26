@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meanmachine190
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning SOC
+- 👀 I’m interested in CLoud Architect
+- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via E-mail (arshadyaalimadad@gmail.com)
 
